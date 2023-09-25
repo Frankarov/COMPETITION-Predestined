@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7bde416ca2e214894bbb404075ad4c, type: 3}
+  m_Name: DokterLoop1
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: 3c995f054f7e64f43961e2e9eaac0ad2, type: 2}
+    Dialogue: Selamat malam saya dokter Surya bagaimana keadaan anda ?
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Ya dok Saya ingat kalau saya salah satu penumpang yang selamat dari
+      kecelakaan pesawat.
+  - speaker: {fileID: 11400000, guid: 3c995f054f7e64f43961e2e9eaac0ad2, type: 2}
+    Dialogue: Saya tahu mungkin anda masih ketakutan. Kami akan membantu kamu untuk
+      pulih.
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Iya dok..
+  - speaker: {fileID: 11400000, guid: 3c995f054f7e64f43961e2e9eaac0ad2, type: 2}
+    Dialogue: Itu wajar, seringkali ingatan awal bisa kabur setelah kejadian seperti
+      ini. Untuk sekarang anda hanya perlu istirahat yang cukup. Bisa kah...
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Nama saya Reichad.
+  - speaker: {fileID: 11400000, guid: 3c995f054f7e64f43961e2e9eaac0ad2, type: 2}
+    Dialogue: Baik.. Saya pergi dulu. Saya akan kembali memeriksa anda besok pagi.
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Ya Terima kasih Dok.

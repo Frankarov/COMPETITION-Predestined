@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerDuduk
+  - PramugariTrigger2
+  - TesTrigger
+  - KeypadTrigger
+  - PilotTrigger
+  - NonsenseTrigger
+  - PramugariLavaTrigger
+  - Russia00
+  - Russia10
+  - Russia01
+  - Russia11
+  - Russia111
+  - Interkom
+  - Pengumuman
+  - DokterSusterDatang
+  - SusterPergi
+  - televisi
+  - PlayerKardus
+  - SusterJaga
+  - PlayerKardus2
+  - PlayerKardus3
+  - TidurDiaLoop1
+  - MomCry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

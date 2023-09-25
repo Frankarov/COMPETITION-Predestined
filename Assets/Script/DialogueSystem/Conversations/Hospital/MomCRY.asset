@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7bde416ca2e214894bbb404075ad4c, type: 3}
+  m_Name: MomCRY
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: c50dce605d106d942bb56a25957a93a8, type: 2}
+    Dialogue: Hiks..hiks....
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Saya mengerti ibu baru saja kelihangan anak ibu, dan menurut saya wajar
+      jika ibu bersedih...
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Namun anak ibu pasti sedih jika melihat ibunya terus terusan menangis...
+  - speaker: {fileID: 11400000, guid: 3be28829fe38c984abe3e99485579876, type: 2}
+    Dialogue: Anak saya namanya Cempaka. Diia anak yang sangat ceria dan memiliki
+      senyum yang manis...
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Terdengar seperti anak yang luar biasa bu..
+  - speaker: {fileID: 11400000, guid: 3be28829fe38c984abe3e99485579876, type: 2}
+    Dialogue: Benar cempaka anak yang luar biasa..
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Bolehkah saya bertanya sesuatu Bu..?
+  - speaker: {fileID: 11400000, guid: 3be28829fe38c984abe3e99485579876, type: 2}
+    Dialogue: Tentu saja boleh, sebelumnya jika boleh tahu, namanya siapa ya, mas?
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: Nama saya reichad, saya ingin bertanya...
+  - speaker: {fileID: 11400000, guid: cb2c1580088313a4a8f691436e7e9bfc, type: 2}
+    Dialogue: 
